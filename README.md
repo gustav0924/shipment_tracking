@@ -18,7 +18,7 @@ This project utilizes the following technologies:
 
 | InboundDelivery  | MaterialKey 	    | Description | DeliveryQuantity | Means of Transport - Key	|  Bill of landing - Key |    Due Date        | trackingnumber     |     status  | estimatedTimeofDelivery | Carrier	Source	  | DateCalculated | Action |
 |-------------------	        |------------------	|------------- |--------------|---------------- |------------ |-------------- |------------| ------------------------------ || ------------------------------ |
-|184228431	| 740375-0020  |  VOICE COIL,19.6X5.9.1.5OHM,NO TINSEL |  21,600      | 1021216221      |	773412432028 |   21/09/2023  0:00:00  |      773412432028   |     Ready for pickup    | 2023-05-15 00:00:00 | FEDEX	| Bill    | 2023-05-17 00:00:00	| Pending To Receive
+|184228431	| 740375-0020  |  VOICE COIL,19.6X5.9.1.5OHM,NO TINSEL |  21,600      | 1021216221      |	773412432028 |   21/09/2023  0:00:00  |      773412432028   |     Ready for pickup    | 2023-05-15 00:00:00 | FEDEX	| Bill    | 2023-05-17 00:00:00	| Pending To Receive |
 
 
 
